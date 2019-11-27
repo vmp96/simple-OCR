@@ -1,0 +1,4 @@
+[submodule "OCR-images"]
+	path = OCR-images
+	url = https://github.com/vmp96/OCR-images
+	branch = ./
